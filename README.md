@@ -10,7 +10,7 @@ I have recieved explicit permission from the authors to display snippets of thei
 
 | Skills Demonstrated | Description and Link | Source | Purchase Info |
 |-----|---|---|-----|
-| <ul><li>Python</li><li>Jupyter Notebook</li></ul> | Generating Random Arrays<ul><li>[Jupyter Notebook](Jupyter-Notebook/day03.ipynb)</li><li>[Python Code Only](python/random-arrays.py)</li></ul> | 50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners by Benjamin Bennett Alexander| [View Original Work](https://benjaminb.gumroad.com "View all work by Mr. Alexander") |
+| <ul><li>Python</li><li>Jupyter Notebook</li></ul> | Generating Random Arrays<ul><li>[Jupyter Notebook]([Jupyter-Notebook/day03.ipynb](https://github.com/MegApril/public-samples/tree/4431e9b3aa6721b64b34021c1af32b42e50a245a/Jupyter%20Notebook))</li><li>[Python Code Only](python/random-arrays.py)</li></ul> | 50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners by Benjamin Bennett Alexander| [View Original Work](https://benjaminb.gumroad.com "View all work by Mr. Alexander") |
 
 
 ## Credit & Permissions
