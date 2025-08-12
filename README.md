@@ -11,6 +11,9 @@ I have recieved explicit permission from the authors to display snippets of thei
 | Skills Demonstrated | Description and Link | Source |
 |:-----|:---|:---|
 | **Python**<ul><li>NumPy</li><li>MatPlotLib</li></ul>**Jupyter Notebook** | Generating Random Arrays<ul><li>[Jupyter Notebook](jupyter-notebook/day03.ipynb)</li><li>[Python Code Only](python/day03.py)</li></ul> | [50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners by Benjamin Bennett Alexander](https://benjaminb.gumroad.com "View all work by Mr. Alexander")|
+|SQL|Coming Soon!||
+|R|Coming Soon!||
+|Tableau|Coming Soon!||
 
 
 ## Credit & Permissions
