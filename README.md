@@ -9,8 +9,8 @@ I share:
 I have recieved explicit permission from the authors to display snippets of their work to demonstrate my solutions. I do not share the full text from original work. If you would like to explore the exercises in their original form, I encourage you to purchase the content and support the authors!
 
 | Skills Demonstrated | Description and Link | Source | Purchase Info |
-|-----|---|---|-----|
-| <ul><li>Python</li><li>Jupyter Notebook</li></ul> | Generating Random Arrays<ul><li>[Jupyter Notebook]([Jupyter-Notebook/day03.ipynb](https://github.com/MegApril/public-samples/tree/4431e9b3aa6721b64b34021c1af32b42e50a245a/Jupyter%20Notebook))</li><li>[Python Code Only](python/random-arrays.py)</li></ul> | 50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners by Benjamin Bennett Alexander| [View Original Work](https://benjaminb.gumroad.com "View all work by Mr. Alexander") |
+|:-----|---|---|-----|
+| <ul><li>Python</li><li>NumPy</li><li>MatPlotLib</li><li>Jupyter Notebook</li></ul> | Generating Random Arrays<ul><li>[Jupyter Notebook](https://github.com/MegApril/public-samples/tree/4431e9b3aa6721b64b34021c1af32b42e50a245a/Jupyter%20Notebook)</li><li>[Python Code Only](python/random-arrays.py)</li></ul> | 50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners by Benjamin Bennett Alexander| [View Original Work](https://benjaminb.gumroad.com "View all work by Mr. Alexander") |
 
 
 ## Credit & Permissions
