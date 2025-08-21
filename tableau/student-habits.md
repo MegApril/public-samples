@@ -2,7 +2,7 @@
 
 
 # Student Performance Dashboard First Draft
-[]("Meg's first dashboard")
+![Student Performance Dashbaord v.01](tableau/Student-Performance-Dashboard.png)
 
 ## Ranked by Strongest Correlation
 Values have been rounded to four decimal points with full values below.
